@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SPA-todo-app/static/css/main.88f9d85b.chunk.css",
+    "main.js": "/SPA-todo-app/static/js/main.73e2944f.chunk.js",
+    "main.js.map": "/SPA-todo-app/static/js/main.73e2944f.chunk.js.map",
+    "runtime-main.js": "/SPA-todo-app/static/js/runtime-main.db33ed8a.js",
+    "runtime-main.js.map": "/SPA-todo-app/static/js/runtime-main.db33ed8a.js.map",
+    "static/js/2.f4c9fba0.chunk.js": "/SPA-todo-app/static/js/2.f4c9fba0.chunk.js",
+    "static/js/2.f4c9fba0.chunk.js.map": "/SPA-todo-app/static/js/2.f4c9fba0.chunk.js.map",
+    "index.html": "/SPA-todo-app/index.html",
+    "precache-manifest.73c71efff23aaa6680375f764c2dd103.js": "/SPA-todo-app/precache-manifest.73c71efff23aaa6680375f764c2dd103.js",
+    "service-worker.js": "/SPA-todo-app/service-worker.js",
+    "static/css/main.88f9d85b.chunk.css.map": "/SPA-todo-app/static/css/main.88f9d85b.chunk.css.map",
+    "static/js/2.f4c9fba0.chunk.js.LICENSE.txt": "/SPA-todo-app/static/js/2.f4c9fba0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db33ed8a.js",
+    "static/js/2.f4c9fba0.chunk.js",
+    "static/css/main.88f9d85b.chunk.css",
+    "static/js/main.73e2944f.chunk.js"
+  ]
+}
